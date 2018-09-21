@@ -1,0 +1,17 @@
+{
+  "name": "glass_world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://DibyaJyotiSarmah.github.io/1st-website",
+  "scripts": {
+    "deploy": "gh-pages -d -dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
