@@ -45,7 +45,7 @@ header #branding{
 }
 #showcase{
 		min-height: 400px;
-		background:url("file:///E:/traversy%20media/glass_world/dist/image/glass.jpg") 0 -180px;
+		background:url("image/glass.jpg") 0 -180px;
 	    background-repeat: no-repeat;
 	    background-size: cover;
 	    font-weight:bold;
