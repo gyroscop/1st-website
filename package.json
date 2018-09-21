@@ -2,7 +2,7 @@
   "name": "glass_world",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://DibyaJyotiSarmah.github.io/1st-website",
+  "homepage": "https://gyroscop.github.io/1st-website",
   "scripts": {
     "deploy": "gh-pages -d -dist"
   },
